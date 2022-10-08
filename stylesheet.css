@@ -1,0 +1,139 @@
+h2 {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    color:  rgb(41, 41, 41);
+    font-weight: 500;
+    word-spacing: 4px;
+    font-family: Tahoma, sans-serif
+    
+}
+
+h5 {
+    word-spacing: 5px;
+    letter-spacing: 0.3px;
+    font-family: Tahoma, sans-serif;
+    color: rgb(48, 48, 48);
+}
+a{
+    text-decoration: none;
+    color: rgb(11, 11, 59);
+}
+
+p {
+    padding-top: 20px;
+    color: rgb(22, 22, 22);
+    /* word-spacing: 2.5px;
+    letter-spacing: 0.3px; */
+    font-size: 17px;
+    cursor: pointer;
+    font-family: Verdana, sans-serif;
+    /* font-family: Tahoma, sans-serif; */
+}
+
+.underline{
+    border-bottom: 2.7px solid
+}
+
+table,
+th,
+td {
+    padding-top: 2.7px;
+    padding-bottom: 2.7px;
+    /* font-family: Tahoma, sans-serif; */
+    font-family: Verdana, sans-serif;
+}
+
+.remove-card-border{
+    border: none;
+}
+
+
+.icon-row{
+    width: 35px;
+}
+
+.fa{
+    color: rgb(53, 53, 54);
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.photo {
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+}
+
+.name-card {
+    text-align: center;
+    border-radius: 3px;
+    border-color: blueviolet;
+    cursor: pointer;
+    border: none;
+    /* width: 95%; */
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+}
+
+.table-card{
+    border-radius: 3px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+
+}
+
+.paragraph-card{
+    border-radius: 3px;
+    border-color: blueviolet;
+    margin-top: 25px;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    border: none;
+
+}
+
+.header-card{
+    margin-top: 18px;
+    border-radius: 3px;
+    border-color: blueviolet;
+    cursor: pointer;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+
+}
+
+.header-card-projects{
+    margin-top: 85px;
+    border-radius: 3px;
+    border-color: blueviolet;
+    cursor: pointer;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+
+}
+
+.link {
+    margin-top: 15px;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    height: 110px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+}
+
+.one-word {
+    padding-top: 20px;
+}
+
+.link:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(41, 41, 41);
+}
